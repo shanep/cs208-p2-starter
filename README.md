@@ -97,3 +97,8 @@ to GitHub for grading! The Video walk through linked in the beginning of this
 document will show you how to accomplish this task.
 
 ## Acceptance Criteria
+
+- You used the specified HTML tags
+- Your CSS is in an external file
+- You pass all instructor provided tests
+- You have provided a screenshot in your Retrospective.md
