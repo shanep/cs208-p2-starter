@@ -1,5 +1,9 @@
 # Project 2
 
+## Project links
+
+* [Grading Rubric](https://shanepanter.com/cs208/grading-rubric.html)
+
 ## Overview
 
 The goal of this project is to take the following text below and write both the
