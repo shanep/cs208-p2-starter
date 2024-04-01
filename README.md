@@ -3,7 +3,7 @@
 ## Project links
 
 * [Video Walkthrough](https://youtu.be/lHeWbSgfw5I)
-* [Grading Rubric](https://shanepanter.com/cs208/grading-rubric.html)
+* [Grading Rubric](https://shanepanter.com/teaching/universal-grading-rubric.html)
 
 ## Overview
 
