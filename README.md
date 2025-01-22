@@ -3,7 +3,6 @@
 ## Project links
 
 * [Video Walkthrough](https://youtu.be/lHeWbSgfw5I)
-* [Grading Rubric](https://shanepanter.com/teaching/universal-grading-rubric.html)
 
 ## Overview
 
